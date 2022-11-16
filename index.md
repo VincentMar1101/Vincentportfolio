@@ -1,8 +1,8 @@
-## Portfolio
+## Vincent's Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic Design Project 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
