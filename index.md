@@ -5,7 +5,7 @@
 ### Graphic Design Project 
 
 [Project 1 Title](/sample_page)
-<img src="images/Trust.jpg?raw=true"/>
+<img src="images/Trust.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
