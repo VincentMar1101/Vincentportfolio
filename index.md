@@ -19,10 +19,11 @@
 [Project 4 - Bill Nye](/sample_page)
 
 <img src="images/BillNye.jpg?raw=true"/>
+
 ---
 [Project 5 - Pixle Art](/sample_page)
 
-<img src="images/BillNye.jpg?raw=true"/>
+<img src="images/MLB-Max-Muncy.jpg?raw=true"/>
 
 ---
 ### My Web Design Project
