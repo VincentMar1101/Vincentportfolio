@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### My Web Design Project
 
 - [Project 1 About Me](https://trinket.io/html/4c63708f0b)
 - [Project 2 Celebrity Project](http://example.com/)
