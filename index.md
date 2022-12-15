@@ -16,7 +16,11 @@
 <img src="images/Pop.png?raw=true"/>
 
 ---
-[Project 3 - Bill Nye](/sample_page)
+[Project 4 - Bill Nye](/sample_page)
+
+<img src="images/BillNye.jpg?raw=true"/>
+---
+[Project 5 - Pixle Art](/sample_page)
 
 <img src="images/BillNye.jpg?raw=true"/>
 
