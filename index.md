@@ -19,15 +19,16 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 About Me](https://trinket.io/html/4c63708f0b)
+- [Project 2 Celebrity Project](http://example.com/)
+- [Project 3 Moon Animation](https://trinket.io/html/adda25370a)
+- [Project 4 Holloween Click](https://trinket.io/html/6ec44978be)
+- [Project 5 Stickers](https://trinket.io/html/00cbbd6616)
 
 ---
+### My Midterm Project
 
-
+-[Midterm Project - Title]
 
 
 ---
