@@ -12,8 +12,8 @@
 <img src="images/Grafitti.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="![Pop](https://user-images.githubusercontent.com/117855904/207914182-1a9d82d0-53cb-48bf-b18d-af07e2da9aa2.png)"/>
+[Project 3 Title - Pop Art](http://example.com/)
+<img src="images/Pop.png?raw=true"/>
 
 ---
 
