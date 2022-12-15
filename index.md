@@ -16,8 +16,8 @@
 <img src="images/Pop.png?raw=true"/>
 
 ---
-[Project 3 - Bill Nye](http://example.com/)
-<img src="images/BillNye.png?raw=true"/>
+[Project 3 - Bill Nye](/pdf/sample_presentation.pdf)
+<img src="images/BillNye.jpg?raw=true"/>
 
 ---
 ### My Web Design Project
