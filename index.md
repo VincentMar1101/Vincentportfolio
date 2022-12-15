@@ -4,19 +4,22 @@
 
 ### Graphic Design Project 
 
-[Project 1 Title - Ripped Text Effect](/sample_page)
+[Project 1 - Ripped Text Effect](/sample_page)
 <img src="images/Trust.png?raw=true"/>
 
 ---
-[Project 2 Title - Grafitti](/pdf/sample_presentation.pdf)
+[Project 2 - Grafitti](/pdf/sample_presentation.pdf)
 <img src="images/Grafitti.jpg?raw=true"/>
 
 ---
-[Project 3 Title - Pop Art](http://example.com/)
+[Project 3 - Pop Art](http://example.com/)
 <img src="images/Pop.png?raw=true"/>
 
 ---
+[Project 3 - Bill Nye](http://example.com/)
+<img src="images/BillNye.png?raw=true"/>
 
+---
 ### My Web Design Project
 
 - [Project 1 About Me](https://trinket.io/html/4c63708f0b)
